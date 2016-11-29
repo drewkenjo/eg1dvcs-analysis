@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.jlab.analysis.eg1dvcs.eg1dvcs.kenjo;
+package org.jlab.analysis.eg1dvcs.kenjo;
 
 import org.jlab.clas.pdg.PDGDatabase;
 import org.jlab.clas.physics.GenericKinematicFitter;
