@@ -1,1 +1,2 @@
-target/
+target/*
+!target/eg1dvcs-analysis-1.0-SNAPSHOT.jar
